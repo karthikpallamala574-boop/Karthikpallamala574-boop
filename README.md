@@ -30,7 +30,7 @@
 <!-- Edit your bio below -->
 - 📊 I'm Karthik, a Data Analyst transforming messy datasets into clear dashboards that help businesses make faster, smarter decisions — using **SQL, Python, Power BI & Tableau**.
 - 🎯 Currently seeking **entry-level Data Analyst roles** in Bangalore, Hyderabad, Chennai, Pune & remote, where I can apply SQL, Power BI, and Python to solve real business problems.
-- 🎓 Pursuing **MCA** at Sri Venkateswara University (2024–2026) | BCA from Sri Venkateswara University (2021–2024), CGPA 7.2/10.0
+- 🎓 Pursuing **MCA** at Sri Venkateswara University (2024–2026) Waiting For Final Certificates | BCA from Sri Venkateswara University (2021–2024), CGPA 7.2/10.0
 - 🌱 Passionate about BI dashboards, data storytelling, and uncovering insights hidden in raw datasets.
 - ⚡ Fun fact: I genuinely enjoy untangling a messy, 50,000-row dataset until it finally makes sense.
 - 📍 Based in Tirupati, Andhra Pradesh, India
@@ -113,7 +113,7 @@ Interactive dashboard analyzing workforce data (~50,000 records) to identify att
 ### 🤝 Open to Collaborate On
 
 - 📊 Open-source data analytics projects
-- 💼 Freelance / entry-level Data Analyst opportunities
+- 💼 Freelance / entry-level Data Analyst opportunities & Business Analyst Roles
 - 🔬 Research projects involving data & dashboards
 - 🚀 Startup ideas needing data-driven insights
 
