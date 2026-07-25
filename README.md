@@ -5,7 +5,7 @@
 ============================================================ -->
 
 <h1 align="center">Hi there 👋, I'm Karthik Pallamala</h1>
-<h3 align="center">Data Analyst | Turning Messy Data into Clear Decisions</h3>
+<h3 align="center">Data Analyst | Turning Messy Data into Clear Decisions SQL, Excel, Power BI, Tableau, Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Turning+Messy+Data+Into+Clear+Dashboards;Seeking+Entry-Level+Data+Analyst+Roles;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
