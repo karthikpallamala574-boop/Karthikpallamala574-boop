@@ -66,6 +66,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+**Analytics Skills**
+<p>
+  <img src="https://img.shields.io/badge/Data_Cleaning-4B8BBE?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square&logo=googlecharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Analytics-2E9EF7?style=flat-square&logo=googleanalytics&logoColor=white" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
