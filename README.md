@@ -98,7 +98,7 @@ Interactive dashboard analyzing workforce data (~50,000 records) to identify att
 
 - 🏅 [Microsoft AI Skills Fest 2026 – Azure Databricks Badge](https://www.credly.com/badges/6bdf3cb9-62a7-450b-9af1-2253d8f54148/linked_in_profile)
 - 📜 Google Data Analytics Professional Certificate (Coursera) — *in progress*
-- 📜 PL-300: Microsoft Power BI Data Analyst — *exam scheduled July 19, 2026*
+- 📜 PL-300: Microsoft Power BI Data Analyst — *in progress*
 
 ---
 
@@ -106,7 +106,6 @@ Interactive dashboard analyzing workforce data (~50,000 records) to identify att
 
 - 🔹 Power BI (PL-300 exam prep)
 - 🔹 Python for Data Analysis
-- 🔹 Databricks Certified Data Engineer Associate *(planned next)*
 
 ---
 
