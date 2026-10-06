@@ -34,6 +34,7 @@
 - 🌱 Passionate about BI dashboards, data storytelling, and uncovering insights hidden in raw datasets.
 - ⚡ Fun fact: I genuinely enjoy untangling a messy, 50,000-row dataset until it finally makes sense.
 - 📍 Based in Tirupati, Andhra Pradesh, India
+-  * Ready to Relocte All Over India
 
 ---
 
