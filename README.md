@@ -87,6 +87,10 @@ End-to-end analysis of insurance sales data (~50,000 records) to uncover perform
 Interactive dashboard analyzing workforce data (~50,000 records) to identify attrition patterns and key HR metrics.
 **Tech Stack:** Power BI · DAX · Power Query
 
+#### 📌 [Nexdrop-delivery-trust-intelligence](https://github.com/karthikpallamala574-boop/Nexdrop-delivery-trust-intelligence)
+End-to-End business analysis for a hyperlocal delivery platform structured 7,500+ records, surfaced ETA accuracy bottlenecks via SQL & Python, and build executive-ready power BI dashboards with KPI scorecards and strategic recommendations
+**Tech Stack:** Power BI · SQL
+
 ---
 
 ### 📊 GitHub Stats
